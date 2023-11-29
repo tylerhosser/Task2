@@ -45,7 +45,6 @@ html {
     margin: 30px 0;
     padding: 15px;
     border-radius: 5px;
-    background-color: white;
   }
   
   @media (max-width: 460px) {
@@ -62,9 +61,9 @@ html {
   }
   
   #img-div {
-    background-color: light-grey;
     padding: 10px;
     margin: 0;
+    border-style:double
   }
   
   #img-caption {
